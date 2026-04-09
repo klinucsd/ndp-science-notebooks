@@ -1,8 +1,0 @@
-# Set up NRP GLM as LLM for deepagents
-# cp nrp_config.toml ~/.deepagents/config.toml
-
-# Set up ZAI GLM as LLM for deepagents
-cp zai_config.toml ~/.deepagents/config.toml
-
-# Set up OpenAI GPT as LLM for deepagents
-# cp openai_config.toml ~/.deepagents/config.toml
